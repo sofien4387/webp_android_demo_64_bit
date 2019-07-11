@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\srahmoun\Documents\dev\webp-android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="14c419a29ef66b4c325fb170ebf3e08b00210c77">
+        <dex dex="C:\Users\srahmoun\Documents\dev\webp-android\myapplication\build\intermediates\pre-dexed\debug\classes_4930e8fcba3d0888caf911d828d83e97a8bc4c23.jar" />
+    </item>
+
+</items>

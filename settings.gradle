@@ -1,0 +1,2 @@
+include ':myapplication'
+rootProject.name = 'webp'

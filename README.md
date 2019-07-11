@@ -1,12 +1,9 @@
 # webp
-## webp for all! (Android devices)
+## Android Webp demo comptaible with different architectures: armeabi-v7a arm64-v8a x86 x86_64 armeabi
 
-webp is a library we use at EverythingMe Launcher since we love webp. We use it to save bandwidth as well as shrinking our APK sizes.
+webp is a library We use it to save bandwidth as well as shrinking our APK sizes.
 
 webp is an adaptation of chromium's webp decoder, and an addition of a JNI wrapper to easily use it it in your java code.
-
-## compile
-just `gradle clean build`, and add the output aar to your libs (a public aar will be available soon)
 
 ## How to use it?
 

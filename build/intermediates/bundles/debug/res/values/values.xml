@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="webp"><attr format="string" name="webp_src"/></declare-styleable>
+</resources>
